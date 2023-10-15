@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 16 18:19:27 TRT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0188-c4ca-38d2-00000f583998 
+on database directory C:\Users\fener\OneDrive\Belgeler\NetBeansProjects\pharmacyMedicineSystem\pharmacydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+Loaded from file:/C:/Users/fener/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.6+9-LTS-190
+user.dir=C:\Users\fener\OneDrive\Belgeler\NetBeansProjects\pharmacyMedicineSystem
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
